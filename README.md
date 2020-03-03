@@ -17,7 +17,7 @@ To be able to run this project on windows:
 To get the selenium dependency: ``pip install selenium`` or ``pip3 install selenium`` (this just depends on which version of pip you have)
 
 ## Additional files
- Make sure you setup a configuration file of sort named as secrets.py  with variables:
+ Make sure you setup a file named as secrets.py  with the following variables:
  
   `` username = 'your_username'``
   `` password = 'your_password'``
