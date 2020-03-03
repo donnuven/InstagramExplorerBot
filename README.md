@@ -7,10 +7,10 @@ This project utilized two different dependencies being: web chrome driver and se
 To be able to run this project:
    - Download chromedriver, unzip, move to /usr/local/bin (mac OS / linux)  
   
-For windows:
-    - After downloading chromedriver, in order to set up the executable path 
-      look into the C drive or whenever you decide to place the file in, otherwise 
-      it will look something like this : C:\ path\ to your\ chromedriver.
+To be able to run this project on windows:
+   - After downloading chromedriver, in order to set up the executable path 
+     look into the C drive or whenever you decide to place the file in, otherwise 
+     it will look something like this : C:\ path\ to your\ chromedriver.
  
  Make sure you setup a configuration file of sort named as secrets.py  with variables:
  
