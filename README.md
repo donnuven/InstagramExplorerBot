@@ -5,7 +5,7 @@ The project as a whole is a form of designing an automation bot that is meant to
 This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
 
 To be able to run this project:
-   - Download chromedriver, unzip, move to ``/usr/local/bin (mac OS / linux)``  
+   - Download chromedriver, unzip, move to ``/usr/local/bin`` (mac OS / linux)  
   
 To be able to run this project on windows:
    - After downloading chromedriver, in order to set up the executable path 
