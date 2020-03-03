@@ -15,6 +15,7 @@ To be able to run this project on windows:
   `` username = 'your_username'``
   `` password = 'your_password'``
    ``person = 'person_searched_up' ``
+   ``PATH = 'C:\path\toyour\chromedriver'`` (this is for windows user)
    
   The person being searched up can be changed. If there are any suggestions, feel free to add that in. 
 
