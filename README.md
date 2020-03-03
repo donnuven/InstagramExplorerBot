@@ -1,6 +1,6 @@
 # Instagram Explorer Bot
 
-The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll and browse) before returning to the home page.
+The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll,browse, and select image) before returning to the home page.
 
 This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
 
