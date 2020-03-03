@@ -4,11 +4,15 @@ The project as a whole is a form of designing an automation bot that is meant to
 
 This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
 
+The link to chromedriver is here: http://chromedriver.chromium.org/ 
+
 To be able to run this project:
    - Download chromedriver, unzip, move to ``/usr/local/bin`` (mac OS / linux)  
   
 To be able to run this project on windows:
    - After downloading chromedriver, in order to set up the executable path by moving it to the C drive and it will look something like      this : ``C:\ path\ toyour\ chromedriver.``
+   
+To get the selenium dependency: ``pip install selenium`` or ``pip3 install selenium`` (this just depends on which version of pip you have)
  
  Make sure you setup a configuration file of sort named as secrets.py  with variables:
  
