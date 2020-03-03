@@ -19,9 +19,6 @@ To be able to run this project on windows:
    
   The person being searched up can be changed. If there are any suggestions, feel free to add that in. 
 
-The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll and browse) before returning to the home page.
-
-
 Feel free to add more features and/or tweaks to some of the functions to fit what the bot can do for you.
 
 Happy coding! 
