@@ -115,6 +115,8 @@ class BrowseBot():
         choose_image.click()
     
     def close(self):
+        sleep(5)
+        
         close_image = self.driver.find_element_by_xpath('/html/body/div[4]/div[3]/button')
         close_image.click()
 
