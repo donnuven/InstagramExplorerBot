@@ -1,2 +1,29 @@
-# PythonSandBox
-A set of python projects for learning purposes.
+#Instagram Explorer Bot
+
+The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll and browse) before returning to the home page.
+
+This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
+
+To be able to run this project:
+   - Download chromedriver, unzip, move to /usr/local/bin (mac OS / linux)  
+  
+For windows:
+    - After downloading chromedriver, in order to set up the executable path 
+      look into the C drive or whenever you decide to place the file in, otherwise 
+      it will look something like this : C:\ path\ to your\ chromedriver.
+ 
+ Make sure you setup a configuration file of sort named as secrets.py  with variables:
+ 
+  `` username = 'your_username'``
+  `` password = 'your_password'``
+   ``person = 'person_searched_up' ``
+   
+  The person being searched up can be changed. If there are any suggestions, feel free to add that in. 
+
+The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll and browse) before returning to the home page.
+
+
+Feel free to add more features and/or tweak some of the functions to fit what the bot can do for you.
+
+Happy coding! 
+
