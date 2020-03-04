@@ -1,10 +1,10 @@
 # Instagram Explorer Bot 
 
 ## Purpose summary:
-The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll, browse, and select image) before returning to the home page.
+The project as a whole is a form of designing an automation bot that is meant to browse through instagram, imitate scrolling actions, be able to select an image, go through a set of images, and search up a person and repeat the same cycle again (which is to scroll, browse, and select image) before returning to the home page. 
 
 ## Additional Note:
-This project uses the facebook authentication login functionality, so if you want to login directly to instagram through the standard login process, be sure to change the code accordingly, otherwise this will use the login for facebook to get to the instagram page.
+This project uses the facebook authentication login functionality, so if you want to login directly to instagram through the standard login process, be sure to change the code accordingly, otherwise this will use the login for facebook to get to the instagram page. Also, this bot will only take into account of the fact that the instagram user is on a brand new account and will use instructions as accordingly.
 
 ## Dependencies:
 This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
