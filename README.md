@@ -17,7 +17,7 @@ To be able to run this project:
 To be able to run this project on windows:
    - After downloading chromedriver, in order to set up the executable path by moving it to the C drive and it will look something like      this : ``C:\ path\ toyour\ chromedriver.``
    
-### Make sure you have the chromedriver setup in your environment variable for the path in order to make sure chromedriver is setup.
+ Make sure you have the chromedriver setup in your environment variable for the path in order to make sure chromedriver is setup.
 
 To get the selenium dependency: ``pip install selenium`` or ``pip3 install selenium`` (this just depends on which version of pip you have)
 
