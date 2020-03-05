@@ -111,7 +111,7 @@ class BrowseBot():
             sleep(3)
 
     def new_image_select(self):
-        choose_image = self.driver.find_element_by_xpath('//*[@id="react-root"]/section/main/article/div[2]/div/div[10]/div[1]/a')
+        choose_image = self.driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[3]/article/div[1]/div/div[6]/div[2]/a')
         choose_image.click()
     
     def close(self):
