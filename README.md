@@ -6,7 +6,7 @@ The project as a whole is a form of designing an automation bot that is meant to
 ## Additional Note:
 This project uses the facebook authentication login functionality, so if you want to login directly to instagram through the standard login process, be sure to change the code accordingly, otherwise this will use the login for facebook to get to the instagram page. 
 
-Also, this bot will only take into account of the fact that the instagram user is on a brand new account and will use instructions as accordingly.
+Also, this bot will only take into account of the fact that the instagram user is on a brand new account and will use instructions as accordingly. If using an older account, changing the code in ``def explore(self):`` with the correct xpath to adjust where to go will help it look things up in the explorer feed.
 
 ## Dependencies:
 This project utilized two different dependencies being: web chrome driver and selenium, which are required to run this project.
