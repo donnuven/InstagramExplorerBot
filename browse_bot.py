@@ -97,7 +97,7 @@ class BrowseBot():
        
         sleep(10)
 
-        select_user = self.driver.find_element_by_xpath('//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/div[2]/div[2]/div/a[2]')
+        select_user = self.driver.find_element_by_xpath('//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/div[2]/div[2]/div/a[1]')
         select_user.click()
     
     def repeat_scroll(self):
